@@ -1,0 +1,1 @@
+# sequelize-es6
